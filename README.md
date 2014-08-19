@@ -8,6 +8,7 @@ This fork maintains and compiles an AMD-compatible version (e.g. for [RequireJS]
 Package Managers
 ----------------
 
-* [Bower](http://bower.io): `highlightjs`
-* [Composer](http://packagist.org/packages/components/highlightjs): `components/highlightjs`
-* [Component](http://component.io): `components/highlightjs`
+* [Bower](http://bower.io): `highlightjs-amd`
+
+
+I didn't publish new versions for Composer and Component, but the config files are here.
