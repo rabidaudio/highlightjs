@@ -3,6 +3,8 @@ Highlight.js
 
 Shim repository for [Highlight.js](http://highlightjs.org/).
 
+This fork maintains and compiles an AMD-compatible version (e.g. for [RequireJS](http://requirejs.org/).
+
 Package Managers
 ----------------
 
