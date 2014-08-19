@@ -1,6 +1,6 @@
 {
-  "name": "highlightjs",
-  "repo": "components/highlightjs",
+  "name": "highlightjs-amd",
+  "repo": "rabidaudio/highlightjs",
   "version": "8.0.0",
   "main": "highlight.pack.js",
   "scripts": [
